@@ -1,13 +1,13 @@
 
 # _Pizza Order_
 
-#### _A Pizza ordering project_
+#### _A Pizza ordering project, 3/31/18_ 
 
 #### By _**Alex Baker**_
 
 ## Description
 
-_This webpage was built in order to allow customers to choose what size pizza they would like to build. They can they add toppings at an additional price. The webpage will then calculate the cost of their order and notify them of the total price._
+_This webpage was built in order to allow customers to choose what size pizza they would like to order. They can they add toppings at an additional price. The webpage will then calculate the cost of their order and notify them of the total price._
 
 ## Specifications:
 
