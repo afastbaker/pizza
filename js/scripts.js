@@ -6,7 +6,7 @@ function Pizza(topping, size) {
 }
 Pizza.prototype.pizzaCost = function() {
   var cost = 0;
-  
+
   if (this.topping === "topping1"){
     cost += 1;
   } else if (this.topping === "topping2") {
@@ -23,3 +23,18 @@ Pizza.prototype.pizzaCost = function() {
   }
   return cost;
 }
+//User Logic
+$(document).ready(function(){
+  $("#pizza").submit(function(event){
+    event.preventDefault();
+    var nameInput = $("#name").val();
+    var toppingInput = $("#topping").val();
+    var sizeInput = $("#size").val();
+
+    var newPizza = new Pizza(toppingInput, sizeInput);
+    $(".cost-show").show();
+    $(".name").text(nameInput);
+    $(".price").text(newPizza.pizzaCost());
+    $("#name").val("");
+  });
+});
