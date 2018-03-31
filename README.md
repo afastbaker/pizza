@@ -7,7 +7,7 @@
 
 ## Description
 
-_This webpage was built in order to allow customers to choose what size pizza they would like to order. They can they add toppings at an additional price. The webpage will then calculate the cost of their order and notify them of the total price._
+_This webpage is to allow customers to choose what size pizza they would like to order. They have a choice to add toppings at an additional price. The webpage will then calculate the cost of their order and notify them of the total price._
 
 ## Specifications:
 
