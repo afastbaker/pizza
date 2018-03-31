@@ -7,7 +7,8 @@
 
 ## Description
 
-_This webpage is to allow customers to choose what size pizza they would like to order. They have a choice to add toppings at an additional price. The webpage will then calculate the cost of their order and notify them of the total price._
+_This webpage will allow customers to choose what size pizza they would like to order. They have a choice to add toppings at an additional price. The webpage will then calculate the cost of their order and notify them of the total price._
+Link to GitHub page- https://afastbaker.github.io/pizza/
 
 ## Specifications:
 
@@ -24,7 +25,7 @@ _Save input from the user_
 ## Setup/Installation Requirements
 
 * _Clone directory from GitHub._
-* _Navigate into downloaded directory file using a terminal_
+* _Navigate into downloaded directory file using terminal_
 * _Open index.html file using a web browser._
 
 ## Known Bugs
