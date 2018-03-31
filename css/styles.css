@@ -7,7 +7,14 @@
 .jumbotron {
   border: 5px solid black;
   margin-top: 20px;
-  color: #0c3a6b;
+  color: Red;
   text-align: center;
   font-family: cursive;
+}
+.container {
+  background-color: #87b6bc;
+  margin-top: 30px;
+}
+h2 {
+  font-size: 45px;
 }
