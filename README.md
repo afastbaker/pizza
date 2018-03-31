@@ -1,7 +1,7 @@
 
 # _Pizza Order_
 
-#### _A Pizza ordering project, 3/31/18_ 
+#### _A Pizza ordering project, 3/31/18_
 
 #### By _**Alex Baker**_
 
@@ -11,26 +11,25 @@ _This webpage was built in order to allow customers to choose what size pizza th
 
 ## Specifications:
 
-_Retain the input from the user_  
+_Save input from the user_  
 * _For one topping increase 1_
 * _For two toppings increase 2_
 * _for three toppings increase 3_
 
-_Retain the input from the user_
+_Save input from the user_
 * _For small size increase 5_
 * _For medium size increase 10_
 * _for large size increase 15_
 
 ## Setup/Installation Requirements
 
-* _Open page._
-* _Decide what size pizza you want to order._
-* _Choose the toppings you want on it._
-* _Submit your pizza in order to see the cost._
+* _Clone directory from GitHub._
+* _Navigate into downloaded directory file using a terminal_
+* _Open index.html file using a web browser._
 
 ## Known Bugs
 
-N/A
+No known bugs at this time.
 
 ## Support and contact details
 
