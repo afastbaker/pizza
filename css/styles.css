@@ -1,0 +1,13 @@
+.cost-show {
+  display: none;
+  margin-bottom: 15px;
+  font-size: 30px;
+}
+
+.jumbotron {
+  border: 5px solid black;
+  margin-top: 20px;
+  color: #0c3a6b;
+  text-align: center;
+  font-family: cursive;
+}
