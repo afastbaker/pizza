@@ -7,14 +7,25 @@
 .jumbotron {
   border: 5px solid black;
   margin-top: 20px;
-  color: Red;
+  color: Black;
   text-align: center;
-  font-family: cursive;
+  background-image: url(../img/banner.jpg);
+  background-size: 100%;
+  font-family: bold;
 }
 .container {
   background-color: #87b6bc;
-  margin-top: 30px;
+  opacity: .90;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 20px;
 }
 h2 {
   font-size: 45px;
+}
+.btn {
+  color: #900;
+  border: 1px solid #900;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
